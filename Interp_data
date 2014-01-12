@@ -7,7 +7,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 
 
-wb = open_workbook('/Users/MParrotta/Documents/Base_data1.xls')
+wb = open_workbook('/Users/User_name/Documents/Base_data1.xls')
 sh = wb.sheet_by_index(0)   
 
 
